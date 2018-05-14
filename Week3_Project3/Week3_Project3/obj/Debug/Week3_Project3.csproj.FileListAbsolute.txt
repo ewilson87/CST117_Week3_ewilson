@@ -1,0 +1,12 @@
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\bin\Debug\Week3_Project3.exe.config
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\bin\Debug\Week3_Project3.exe
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\bin\Debug\Week3_Project3.pdb
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.TextFileProcessor.resources
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.Properties.Resources.resources
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.csproj.GenerateResource.cache
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.csproj.CopyComplete
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.exe
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.pdb
+C:\Users\evanw\source\repos\Week3_Project3\Week3_Project3\obj\Debug\Week3_Project3.csprojResolveAssemblyReference.cache
