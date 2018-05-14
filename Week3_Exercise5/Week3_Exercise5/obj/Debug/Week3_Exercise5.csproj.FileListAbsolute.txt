@@ -1,0 +1,16 @@
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Week3_Exercise5.exe.config
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Week3_Exercise5.exe.manifest
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Week3_Exercise5.application
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Week3_Exercise5.exe
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Week3_Exercise5.pdb
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.ApproximatePi.resources
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.Properties.Resources.resources
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.csproj.GenerateResource.cache
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.exe.manifest
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.application
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.csproj.CopyComplete
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.exe
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.pdb
+C:\Users\evanw\source\repos\Week3_Exercise5\Week3_Exercise5\obj\Debug\Week3_Exercise5.csprojResolveAssemblyReference.cache
